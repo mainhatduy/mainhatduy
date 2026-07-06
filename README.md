@@ -20,10 +20,6 @@
 
 ## About Me
 
-<table>
-  <tr>
-    <td valign="top" width="57%">
-
 I'm an **AI Engineer & NLP Researcher** based in Vietnam, passionate about pushing the boundaries of language model research. Currently interning at **QUAVEO** and serving as a Research Assistant at **TDTU NLP-KD Lab**.
 
 - **Research Focus**: LLM fine-tuning · Discrete Diffusion LMs · Agentic RAG architectures
@@ -32,14 +28,13 @@ I'm an **AI Engineer & NLP Researcher** based in Vietnam, passionate about pushi
 - **Award**: Consolation Prize — Southern Region Student AI Olympiad 2025
 - **Languages**: Vietnamese (Native) · English (CEFR B2)
 
-</td>
-<td valign="top" width="43%">
+---
 
-<img src="github-metrics-isocalendar.svg" alt="GitHub Metrics Isocalendar" width="100%"/>
+## 📊 GitHub Contributions
 
-</td>
-  </tr>
-</table>
+<div align="center">
+  <img src="github-metrics-isocalendar.svg" alt="GitHub Metrics Isocalendar" width="80%"/>
+</div>
 
 ---
 
