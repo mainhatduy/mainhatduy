@@ -30,7 +30,7 @@ I'm an **AI Engineer & NLP Researcher** based in Vietnam, passionate about pushi
 
 ---
 
-## 📊 GitHub Contributions
+## GitHub Contributions
 
 <div align="center">
   <img src="github-metrics-isocalendar.svg" alt="GitHub Metrics Isocalendar" width="60%"/>
@@ -42,7 +42,7 @@ I'm an **AI Engineer & NLP Researcher** based in Vietnam, passionate about pushi
 
 <div align="center">
 
-### 🧬 AI / ML Research
+### AI / ML Research
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20Transformers-FFD21E?style=flat-square)
 ![Unsloth](https://img.shields.io/badge/Unsloth-FF6B35?style=flat-square)
