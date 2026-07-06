@@ -16,10 +16,13 @@
 </div>
 
 ---
+*"Engineering is not only a career option but also a lifestyle and a way of being."*
 
 ## About Me
 
-> *"Engineering is not only a career option but also a lifestyle and a way of being."*
+<table>
+  <tr>
+    <td valign="top" width="57%">
 
 I'm an **AI Engineer & NLP Researcher** based in Vietnam, passionate about pushing the boundaries of language model research. Currently interning at **QUAVEO** and serving as a Research Assistant at **TDTU NLP-KD Lab**.
 
@@ -28,6 +31,15 @@ I'm an **AI Engineer & NLP Researcher** based in Vietnam, passionate about pushi
 - **Education**: Computer Science @ Tôn Đức Thắng University (TDTU)
 - **Award**: Consolation Prize — Southern Region Student AI Olympiad 2025
 - **Languages**: Vietnamese (Native) · English (CEFR B2)
+
+    </td>
+    <td valign="top" width="43%">
+
+<img src="github-metrics-isocalendar.svg" alt="GitHub Metrics Isocalendar" width="100%"/>
+
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -59,14 +71,6 @@ I'm an **AI Engineer & NLP Researcher** based in Vietnam, passionate about pushi
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-<img src="github-metrics-isocalendar.svg" alt="GitHub Metrics Isocalendar" width="100%"/>
-
-</div>
-
 <div align="center">
 
 ### 💡 Research Interests
@@ -75,8 +79,5 @@ I'm an **AI Engineer & NLP Researcher** based in Vietnam, passionate about pushi
 
 ---
 
-*"The best way to predict the future is to build it."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
 
 </div>
