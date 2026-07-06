@@ -32,12 +32,12 @@ I'm an **AI Engineer & NLP Researcher** based in Vietnam, passionate about pushi
 - **Award**: Consolation Prize — Southern Region Student AI Olympiad 2025
 - **Languages**: Vietnamese (Native) · English (CEFR B2)
 
-    </td>
-    <td valign="top" width="43%">
+</td>
+<td valign="top" width="43%">
 
 <img src="github-metrics-isocalendar.svg" alt="GitHub Metrics Isocalendar" width="100%"/>
 
-    </td>
+</td>
   </tr>
 </table>
 
