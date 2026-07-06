@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Mai%20Nhat%20Duy&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%26%20NLP%20Researcher&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
+<img src="sky.png" width="100%"/>
 
 <br/>
 
@@ -17,38 +17,21 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
-> *"Bridging the gap between frontier NLP research and real-world AI systems."*
+> *"Engineering is not only a career option but also a lifestyle and a way of being."*
 
 I'm an **AI Engineer & NLP Researcher** based in Vietnam, passionate about pushing the boundaries of language model research. Currently interning at **QUAVEO** and serving as a Research Assistant at **TDTU NLP-KD Lab**.
 
-- 🔬 **Research Focus**: LLM fine-tuning · Discrete Diffusion LMs · Agentic RAG architectures
-- 🌏 **Specialization**: Vietnamese NLP — building language technology for underrepresented languages
-- 🎓 **Education**: Computer Science @ Tôn Đức Thắng University (TDTU)
-- 🏆 **Award**: Consolation Prize — Southern Region Student AI Olympiad 2025
-- 💬 **Languages**: Vietnamese (Native) · English (CEFR B2)
+- **Research Focus**: LLM fine-tuning · Discrete Diffusion LMs · Agentic RAG architectures
+- **Specialization**: Vietnamese NLP — building language technology for underrepresented languages
+- **Education**: Computer Science @ Tôn Đức Thắng University (TDTU)
+- **Award**: Consolation Prize — Southern Region Student AI Olympiad 2025
+- **Languages**: Vietnamese (Native) · English (CEFR B2)
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-| Project | Domain | Stack | Highlights |
-|---------|--------|-------|------------|
-| [🏥 Vietnamese Medical SLM](https://huggingface.co/myduy/medical-slm-vi) | NLP / LLM Fine-tuning | PyTorch · Unsloth · DeBERTa · SFT | **+4.5% accuracy** vs base model on medical tasks |
-| [🌊 Medical NER (Diffusion)](https://huggingface.co/myduy/diffusion-medical-ner) | Diffusion LM · NER | Dream 7B · PyTorch · HuggingFace | **F1 79.04%** — Nested NER on Vietnamese COVID-19 docs |
-| [🔄 dlm-vi2en](https://huggingface.co/myduy/dlm-vi2en) | Diffusion · Translation | XLM-RoBERTa · Discrete Diffusion | **BLEU 37.9** — Non-autoregressive Vi→En translation |
-| [🤖 deep-bot](https://github.com/mainhatduy/deep-bot) | Agents / RAG | LangGraph · ElasticSearch · Docker | Graph-routed multi-agent hybrid Vector + SQL RAG |
-| [🎙️ diffusion-speech-recognition](https://github.com/mainhatduy/diffusion-speech-recognition) | ASR · Diffusion | Python · PyTorch | Diffusion-based speech recognition pipeline |
-| [📝 please-summarize](https://github.com/mainhatduy/please-summarize) | NLP · Summarization | Python | Intelligent text summarization tool |
-
-</div>
-
----
-
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -59,12 +42,12 @@ I'm an **AI Engineer & NLP Researcher** based in Vietnam, passionate about pushi
 ![DeepSpeed](https://img.shields.io/badge/DeepSpeed-0078D4?style=flat-square)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
-### 🤖 Agents & Orchestration
+### Agents & Orchestration
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![vLLM](https://img.shields.io/badge/vLLM-FF6B35?style=flat-square)
 
-### ⚙️ Infrastructure & Tools
+### Infrastructure & Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
@@ -76,34 +59,13 @@ I'm an **AI Engineer & NLP Researcher** based in Vietnam, passionate about pushi
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mainhatduy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mainhatduy&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9"/>
+<img src="github-metrics-isocalendar.svg" alt="GitHub Metrics Isocalendar" width="100%"/>
 
 </div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=mainhatduy&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 🗺️ Journey
-
-```
-Oct 2022  ──▶  🎓 Computer Science @ Tôn Đức Thắng University
-Jan 2025  ──▶  🔬 Research Assistant @ TDTU NLP-KD Lab
-May 2025  ──▶  🏆 Consolation Prize · Southern Region Student AI Olympiad 2025
-Feb 2026  ──▶  💼 AI Engineer Intern @ QUAVEO
-  Now     ──▶  🚀 Building the future of Vietnamese NLP
-```
-
----
 
 <div align="center">
 
