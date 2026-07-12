@@ -18,11 +18,7 @@
 
 <br/>
 
-<div align="center">
-  <img src="orbital.svg" width="90%" alt="Orbital Tech Stack" />
-</div>
 
-<br/>
 
 ---
 
@@ -39,6 +35,11 @@ I'm an **AI Engineer & NLP Researcher** based in Vietnam, passionate about pushi
 ---
 
 ## Tech Stack
+
+<div align="center">
+  <img src="orbital.svg" width="90%" alt="Orbital Tech Stack" />
+</div>
+<br/>
 
 <div align="center">
 
@@ -63,16 +64,5 @@ I'm an **AI Engineer & NLP Researcher** based in Vietnam, passionate about pushi
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
 </div>
-
----
-
-<div align="center">
-
-### 💡 Research Interests
-
-`Large Language Models` · `Discrete Diffusion` · `Named Entity Recognition` · `Machine Translation` · `Agentic RAG` · `Low-Resource NLP` · `Vietnamese NLP`
-
----
-
 
 </div>
