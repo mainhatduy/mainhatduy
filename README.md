@@ -15,12 +15,7 @@
 
 </div>
 
-
 <br/>
-
-
-
----
 
 ## About Me
 
@@ -32,8 +27,6 @@ I'm an **AI Engineer & NLP Researcher** based in Vietnam, passionate about pushi
 - **Award**: Consolation Prize — Southern Region Student AI Olympiad 2025
 - **Languages**: Vietnamese (Native) · English (CEFR B2)
 
----
-
 ## Tech Stack
 
 <div align="center">
@@ -44,6 +37,7 @@ I'm an **AI Engineer & NLP Researcher** based in Vietnam, passionate about pushi
 <div align="center">
 
 ### AI / ML Research
+
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20Transformers-FFD21E?style=flat-square)
 ![Unsloth](https://img.shields.io/badge/Unsloth-FF6B35?style=flat-square)
@@ -51,11 +45,13 @@ I'm an **AI Engineer & NLP Researcher** based in Vietnam, passionate about pushi
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
 ### Agents & Orchestration
+
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![vLLM](https://img.shields.io/badge/vLLM-FF6B35?style=flat-square)
 
 ### Infrastructure & Tools
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
