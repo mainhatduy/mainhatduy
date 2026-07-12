@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="background.gif" width="80%"/>
-
 <br/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=620&lines=Fine-tuning+LLMs+for+Vietnamese+NLP+%F0%9F%87%BB%F0%9F%87%B3;Building+Discrete+Diffusion+Language+Models+%F0%9F%8C%8A;Agentic+RAG+%7C+LangGraph+Multi-Agent+Systems+%F0%9F%A4%96;AI+Intern+%40+QUAVEO+%7C+NLP-KD+Lab+Researcher+%F0%9F%94%AC)](https://git.io/typing-svg)
@@ -14,6 +12,14 @@
 [![Email](https://img.shields.io/badge/Email-maiduy07102003@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maiduy07102003@gmail.com)
 
 </div>
+
+<br/>
+
+<div align="center">
+  <img src="orbital.svg" width="90%" alt="Orbital Tech Stack" />
+</div>
+
+<br/>
 
 ---
 *"Engineering is not only a career option but also a lifestyle and a way of being."*
