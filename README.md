@@ -38,14 +38,6 @@ I'm an **AI Engineer & NLP Researcher** based in Vietnam, passionate about pushi
 
 ---
 
-## GitHub Contributions
-
-<div align="center">
-  <img src="github-metrics-isocalendar.svg" alt="GitHub Metrics Isocalendar" width="60%"/>
-</div>
-
----
-
 ## Tech Stack
 
 <div align="center">
