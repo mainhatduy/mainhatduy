@@ -1,21 +1,14 @@
 <div align="center">
 
-<br/>
+<img src="ascii_fluid.svg" width="100%" alt="Feynman Matrix Wave Banner" />
 
-<div align="center">
-  <img src="ascii_fluid.svg" width="100%" alt="Feynman Matrix Wave Banner" />
-</div>
 
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-mainhatduy.github.io-6d28d9?style=for-the-badge&logo=github&logoColor=white)](https://mainhatduy.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-mainhatduy-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mainhatduy)
-[![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-myduy-FFD21E?style=for-the-badge)](https://huggingface.co/myduy)
-[![Email](https://img.shields.io/badge/Email-maiduy07102003@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maiduy07102003@gmail.com)
+<a href="https://mainhatduy.github.io/"><code>[ portfolio ]</code></a> &nbsp;&bull;&nbsp;
+<a href="https://linkedin.com/in/mainhatduy"><code>[ linkedin ]</code></a> &nbsp;&bull;&nbsp;
+<a href="https://huggingface.co/myduy"><code>[ huggingface ]</code></a> &nbsp;&bull;&nbsp;
+<a href="mailto:maiduy07102003@gmail.com"><code>[ email ]</code></a>
 
 </div>
-
-<br/>
 
 ## About Me
 
