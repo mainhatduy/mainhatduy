@@ -138,7 +138,7 @@ for f_idx in range(NUM_FRAMES):
 
             if is_feynman_name:
                 char = orig_char
-                color = "rgb(74,222,128)"  # Feynman name: Green
+                color = "var(--color-feynman)"  # Feynman name variable
                 bold = True
             else:
                 intensity = get_wave_intensity(px, py, now)
@@ -147,13 +147,13 @@ for f_idx in range(NUM_FRAMES):
 
                 if intensity > 0.08 and threshold <= intensity * 1.25:
                     char = pick_char(c, r, intensity, now, 0)
-                    # White wave with brightness variation
+                    # Wave with brightness variation via CSS variables
                     clamped = min(1.0, intensity)
                     brightness = int(180 + 75 * clamped)
-                    color = f"rgb({brightness},{brightness},{brightness})"
+                    color = f"var(--wave-{brightness})"
                 else:
                     char = orig_char
-                    color = "rgb(75,75,75)"  # Background text: Gray
+                    color = "var(--color-bg)"  # Background text variable
 
             row_chars.append(char)
             row_colors.append(color)
@@ -167,6 +167,19 @@ for f_idx in range(NUM_FRAMES):
 
 # Write SVG file
 spritesheet_height = NUM_FRAMES * 252
+
+# Generate CSS variables for waves
+wave_vars_dark = []
+wave_vars_light = []
+for b in range(180, 256):
+    wave_vars_dark.append(f"      --wave-{b}: rgb({b},{b},{b});")
+    # For light mode, map 180->75 (dark gray) and 255->0 (black)
+    light_val = 255 - b
+    wave_vars_light.append(f"      --wave-{b}: rgb({light_val},{light_val},{light_val});")
+
+wave_vars_dark_str = "\n".join(wave_vars_dark)
+wave_vars_light_str = "\n".join(wave_vars_light)
+
 svg_content = f"""<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 896 252" width="896" height="252">
   <defs>
     <!-- Rounded corners clipping -->
@@ -176,6 +189,24 @@ svg_content = f"""<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 896 252" 
   </defs>
   <style>
     @import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@900&amp;display=swap');
+
+    :root {{
+      --color-feynman: rgb(74,222,128);
+      --color-bg: rgb(75,75,75);
+      --color-overlay-fill: rgb(255, 255, 255);
+      --color-overlay-stroke: rgb(0, 0, 0);
+{wave_vars_dark_str}
+    }}
+
+    @media (prefers-color-scheme: light) {{
+      :root {{
+        --color-feynman: rgb(21, 128, 61);
+        --color-bg: rgb(209, 213, 219);
+        --color-overlay-fill: rgb(17, 24, 39);
+        --color-overlay-stroke: rgb(255, 255, 255);
+{wave_vars_light_str}
+      }}
+    }}
 
     .ascii-text {{
       font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
@@ -188,8 +219,8 @@ svg_content = f"""<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 896 252" 
       font-family: 'Cinzel', serif;
       font-size: {NAME_FONT_SIZE}px;
       font-weight: 900;
-      fill: rgb(255, 255, 255);
-      stroke: rgb(0, 0, 0);
+      fill: var(--color-overlay-fill);
+      stroke: var(--color-overlay-stroke);
       stroke-width: 1.2px;
       stroke-linejoin: round;
       paint-order: stroke fill;
