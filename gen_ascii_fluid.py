@@ -189,6 +189,10 @@ svg_content = f"""<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 896 252" 
       font-size: {NAME_FONT_SIZE}px;
       font-weight: 900;
       fill: rgb(255, 255, 255);
+      stroke: rgb(0, 0, 0);
+      stroke-width: 1.2px;
+      stroke-linejoin: round;
+      paint-order: stroke fill;
       dominant-baseline: middle;
       letter-spacing: 6px;
     }}
